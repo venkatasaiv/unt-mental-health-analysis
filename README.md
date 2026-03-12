@@ -207,8 +207,6 @@ Contributions are welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) for de
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 👤 Author
-
-**Your Name**
 - VenkatasaiV 
 
 ## 🙏 Acknowledgments
